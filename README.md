@@ -100,7 +100,7 @@ I-am-AbhishekUpadhyay
 | ![Abhishek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
     
 
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|                                                                                                      Abhishek's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
 
@@ -113,7 +113,7 @@ I-am-AbhishekUpadhyay
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="mailto:18bcs2945@cuchd.in">contact me through email</a> me.
 
 You can join me on <a href="https://www.hackerrank.com/cu_18bcs2945?hr_r=1">Hackerank</a> or <a href="https://www.linkedin.com/in/abhishek-u-4515641a5/">LinkedIn</a> to deploy your machine learning project on web.
 
