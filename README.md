@@ -1,6 +1,6 @@
 - 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 - 👀 I have a Bachelors in Computer Science from the Chandigarh University Punjab India
-- 🌱 I have a strong interest in Data Science ,Artificial Intelligence and Cloud
+- 🌱 I have a strong interest in Data Science ,Artificial Intelligence and Cloud Computing
 - 💞️ 🔭 Working on Deep Learning & Machine Learning
 - 🌱 Learning about Computer Vision and Machine Learning stuff
 - 🌟 Main languages: C++ Python, JavaScript
