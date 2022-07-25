@@ -16,7 +16,7 @@ Hi, I'm Abhishek Upadhyay!
 ```
 I-am-AbhishekUpadhyay
 -------------------------
-💻 I am a self taught Software Developer and a Machine Learning Enthusiast
+💻 I am a self taught Programmer & Web Developer
 📚 I have a Bachelors in Computer Science from Chandigarh University India
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
