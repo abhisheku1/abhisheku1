@@ -91,15 +91,6 @@ I-am-AbhishekUpadhyay
 |                                                                     Abhishek's
 |                                                                                                      Abhishek's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
-
-
-
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
 ## Let's Work on Your Project Together!
 
 If you have any questions about front-end web development, feel free to <a href="mailto:18bcs2945@cuchd.in">contact me through email</a> me.
