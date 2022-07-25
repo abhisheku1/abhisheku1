@@ -9,11 +9,6 @@ Hi, I'm Abhishek Upadhyay!
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;CODER;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
-<img align="left" src="https://www.information-age.com/cloud-and-ai-adoption-123485106/" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
-
-```
 I-am-AbhishekUpadhyay
 -------------------------
 💻 I am a self taught Software Developer and a Machine Learning Enthusiast
