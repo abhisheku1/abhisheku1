@@ -17,7 +17,7 @@ Hello Folks, I'm Abhishek Upadhyay!
 I-am-AbhishekUpadhyay
 -------------------------
 💻 I am a self taught Programmer & Web Developer
-📚 I have a Bachelors in Computer Science from Chandigarh University India
+📚 I have a Bachelors in Computer Science & Engineering degree from Chandigarh University India
 📝 I have a strong interest in DevOPs and Cloud Application Development
 🔭 Working on Web APIs and Authentication
 🌱 Learning about Computer Vision and Machine Learning stuff
