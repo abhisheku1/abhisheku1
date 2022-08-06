@@ -18,7 +18,7 @@ I-am-AbhishekUpadhyay
 -------------------------
 💻 I am a self taught Programmer & Web Developer
 📚 I have a Bachelors in Computer Science & Engineering degree from Chandigarh University India
-📝 I have a strong interest in DevOPs and Cloud Application Development
+📝 I have a strong interest in Full Stack Web Development and Cloud Application Development
 🔭 Working on Web APIs and Authentication
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, JavaScript,C#,Java
