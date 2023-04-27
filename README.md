@@ -7,7 +7,7 @@ Hey There!, I'm Abhishek Upadhyay!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Associate+Project+Engineer;DevOpS;DS%20|%20Networking%20|%20CyberSecurity%20Enthusiastic;Always%20exploring%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Associate+Project+Engineer;DevOpS;DS%20|%20Networking%20|%20DevOps and Networking%20Enthusiastic;Always%20exploring%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 
