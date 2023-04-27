@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello Folks, I'm Abhishek Upadhyay !
+Hey There!, I'm Abhishek Upadhyay!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="AbhishekUpadhyay" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
@@ -34,19 +34,6 @@ WELCOME TO GIT @2023 All rights Reserved follow Git: abhisheku1 for latest updat
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
-### 🧰 Frameworks and Libraries
-
-<p>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-
-</p>
 
 ### 🗄️ Databases and Cloud Hosting
 
