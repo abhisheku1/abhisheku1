@@ -14,7 +14,8 @@ Hey There!, I'm Abhishek Upadhyay!
 <hr>
 
 ```
-WELCOME TO GIT @2023 All rights Reserved follow Git: abhisheku1 for latest updates
+WELCOME TO MY GIT WORLD FOLKS !!!! 
+@2023 All rights Reserved follow Git: abhisheku1 for latest updates ASAP !
 
 ```
 <hr>
